@@ -1,3 +1,3 @@
 Noi dung C
 
-Cap nhat boi MacOS
+Cap nhat boi Window
